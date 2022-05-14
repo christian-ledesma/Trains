@@ -1,0 +1,45 @@
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\bin\Debug\net6.0\ControlRemoto.exe
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\bin\Debug\net6.0\ControlRemoto.deps.json
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\bin\Debug\net6.0\ControlRemoto.runtimeconfig.json
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\bin\Debug\net6.0\ControlRemoto.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\bin\Debug\net6.0\ref\ControlRemoto.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\bin\Debug\net6.0\ControlRemoto.pdb
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\obj\Debug\net6.0\ControlRemoto.csproj.AssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\obj\Debug\net6.0\ControlRemoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\obj\Debug\net6.0\ControlRemoto.AssemblyInfoInputs.cache
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\obj\Debug\net6.0\ControlRemoto.AssemblyInfo.cs
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\obj\Debug\net6.0\ControlRemoto.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\obj\Debug\net6.0\ControlRemoto.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\obj\Debug\net6.0\ref\ControlRemoto.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\obj\Debug\net6.0\ControlRemoto.pdb
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03\ControlRemoto\obj\Debug\net6.0\ControlRemoto.genruntimeconfig.cache
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\bin\Debug\net6.0\ControlRemoto.exe
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\bin\Debug\net6.0\ControlRemoto.deps.json
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\bin\Debug\net6.0\ControlRemoto.runtimeconfig.json
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\bin\Debug\net6.0\ControlRemoto.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\bin\Debug\net6.0\ref\ControlRemoto.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\bin\Debug\net6.0\ControlRemoto.pdb
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\obj\Debug\net6.0\ControlRemoto.csproj.AssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\obj\Debug\net6.0\ControlRemoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\obj\Debug\net6.0\ControlRemoto.AssemblyInfoInputs.cache
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\obj\Debug\net6.0\ControlRemoto.AssemblyInfo.cs
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\obj\Debug\net6.0\ControlRemoto.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\obj\Debug\net6.0\ControlRemoto.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\obj\Debug\net6.0\ref\ControlRemoto.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\obj\Debug\net6.0\ControlRemoto.pdb
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Solucion\Parte 3 - S03 - Procesos\ControlRemoto\obj\Debug\net6.0\ControlRemoto.genruntimeconfig.cache
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\bin\Debug\net6.0\ControlRemoto.exe
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\bin\Debug\net6.0\ControlRemoto.deps.json
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\bin\Debug\net6.0\ControlRemoto.runtimeconfig.json
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\bin\Debug\net6.0\ControlRemoto.dll
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\bin\Debug\net6.0\ControlRemoto.pdb
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\obj\Debug\net6.0\ControlRemoto.csproj.AssemblyReference.cache
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\obj\Debug\net6.0\ControlRemoto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\obj\Debug\net6.0\ControlRemoto.AssemblyInfoInputs.cache
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\obj\Debug\net6.0\ControlRemoto.AssemblyInfo.cs
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\obj\Debug\net6.0\ControlRemoto.csproj.CoreCompileInputs.cache
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\obj\Debug\net6.0\ControlRemoto.dll
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\obj\Debug\net6.0\refint\ControlRemoto.dll
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\obj\Debug\net6.0\ControlRemoto.pdb
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\obj\Debug\net6.0\ControlRemoto.genruntimeconfig.cache
+D:\Repositories\VisualStudio_Workspace\ControlRemoto\obj\Debug\net6.0\ref\ControlRemoto.dll
