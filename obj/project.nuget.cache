@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GjMRWVBRvbm8pqF8y1SnVXmyCtZNpJLnY/PMkZiiHtHEgkALWO6yeuNmTqeAFsGqiRopiAdu02s/qR5/qSygKA==",
+  "success": true,
+  "projectFilePath": "D:\\Repositories\\VisualStudio_Workspace\\Trenes\\Trenes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

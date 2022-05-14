@@ -1,0 +1,75 @@
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\Trenes.exe
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\Trenes.deps.json
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\Trenes.runtimeconfig.json
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\Trenes.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\ref\Trenes.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\Trenes.pdb
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\MonoGame.Framework.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.csproj.AssemblyReference.cache
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.AssemblyInfoInputs.cache
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.AssemblyInfo.cs
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.csproj.CopyComplete
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\ref\Trenes.dll
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.pdb
+C:\Users\Roger\Dropbox\La Salle - Online\2021-2022\Pràctiques\UF2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.genruntimeconfig.cache
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\Trenes.exe
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\Trenes.deps.json
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\Trenes.runtimeconfig.json
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\Trenes.dll
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\Trenes.pdb
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\MonoGame.Framework.dll
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\win-x64\native\SDL2.dll
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\win-x86\native\SDL2.dll
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\bin\Debug\netcoreapp6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.csproj.AssemblyReference.cache
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.AssemblyInfoInputs.cache
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.AssemblyInfo.cs
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.csproj.CoreCompileInputs.cache
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.csproj.CopyComplete
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.dll
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\refint\Trenes.dll
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.pdb
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\Trenes.genruntimeconfig.cache
+D:\Temp\Clases\Juanjo2\Enunciado\Trenes\obj\Debug\netcoreapp6.0\ref\Trenes.dll
+D:\Repositories\VisualStudio_Workspace\Trenes\bin\Debug\netcoreapp6.0\Trenes.exe
+D:\Repositories\VisualStudio_Workspace\Trenes\bin\Debug\netcoreapp6.0\Trenes.deps.json
+D:\Repositories\VisualStudio_Workspace\Trenes\bin\Debug\netcoreapp6.0\Trenes.runtimeconfig.json
+D:\Repositories\VisualStudio_Workspace\Trenes\bin\Debug\netcoreapp6.0\Trenes.dll
+D:\Repositories\VisualStudio_Workspace\Trenes\bin\Debug\netcoreapp6.0\Trenes.pdb
+D:\Repositories\VisualStudio_Workspace\Trenes\bin\Debug\netcoreapp6.0\MonoGame.Framework.dll
+D:\Repositories\VisualStudio_Workspace\Trenes\bin\Debug\netcoreapp6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Repositories\VisualStudio_Workspace\Trenes\bin\Debug\netcoreapp6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Repositories\VisualStudio_Workspace\Trenes\bin\Debug\netcoreapp6.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\Repositories\VisualStudio_Workspace\Trenes\bin\Debug\netcoreapp6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Repositories\VisualStudio_Workspace\Trenes\bin\Debug\netcoreapp6.0\runtimes\win-x64\native\SDL2.dll
+D:\Repositories\VisualStudio_Workspace\Trenes\bin\Debug\netcoreapp6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Repositories\VisualStudio_Workspace\Trenes\bin\Debug\netcoreapp6.0\runtimes\win-x86\native\SDL2.dll
+D:\Repositories\VisualStudio_Workspace\Trenes\bin\Debug\netcoreapp6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Repositories\VisualStudio_Workspace\Trenes\obj\Debug\netcoreapp6.0\Trenes.csproj.AssemblyReference.cache
+D:\Repositories\VisualStudio_Workspace\Trenes\obj\Debug\netcoreapp6.0\Trenes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\VisualStudio_Workspace\Trenes\obj\Debug\netcoreapp6.0\Trenes.AssemblyInfoInputs.cache
+D:\Repositories\VisualStudio_Workspace\Trenes\obj\Debug\netcoreapp6.0\Trenes.AssemblyInfo.cs
+D:\Repositories\VisualStudio_Workspace\Trenes\obj\Debug\netcoreapp6.0\Trenes.csproj.CoreCompileInputs.cache
+D:\Repositories\VisualStudio_Workspace\Trenes\obj\Debug\netcoreapp6.0\Trenes.csproj.CopyComplete
+D:\Repositories\VisualStudio_Workspace\Trenes\obj\Debug\netcoreapp6.0\Trenes.dll
+D:\Repositories\VisualStudio_Workspace\Trenes\obj\Debug\netcoreapp6.0\refint\Trenes.dll
+D:\Repositories\VisualStudio_Workspace\Trenes\obj\Debug\netcoreapp6.0\Trenes.pdb
+D:\Repositories\VisualStudio_Workspace\Trenes\obj\Debug\netcoreapp6.0\Trenes.genruntimeconfig.cache
+D:\Repositories\VisualStudio_Workspace\Trenes\obj\Debug\netcoreapp6.0\ref\Trenes.dll
